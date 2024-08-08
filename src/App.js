@@ -18,7 +18,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Router basename="/StratosMedia">
+      <Router basename="/stratos-media">
       <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/services" element={<ServicesPage />} />
