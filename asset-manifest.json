@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stratos-media/static/css/main.d84c4c3a.css",
-    "main.js": "/stratos-media/static/js/main.cd7cd2ac.js",
+    "main.js": "/stratos-media/static/js/main.b2e604bb.js",
     "static/media/digital-marketing-services.jpg": "/stratos-media/static/media/digital-marketing-services.fe63e7d8edbdd31d3c5d.jpg",
     "static/media/brochure3.1.jpg": "/stratos-media/static/media/brochure3.1.a4b864aa9e7da15f6fc2.jpg",
     "static/media/brochure2,1.jpg": "/stratos-media/static/media/brochure2,1.5f351a30f13c9cdc6f4b.jpg",
@@ -23,10 +23,10 @@
     "static/media/brochure1.1.jpg": "/stratos-media/static/media/brochure1.1.5370e173dc6f162d7ce6.jpg",
     "index.html": "/stratos-media/index.html",
     "main.d84c4c3a.css.map": "/stratos-media/static/css/main.d84c4c3a.css.map",
-    "main.cd7cd2ac.js.map": "/stratos-media/static/js/main.cd7cd2ac.js.map"
+    "main.b2e604bb.js.map": "/stratos-media/static/js/main.b2e604bb.js.map"
   },
   "entrypoints": [
     "static/css/main.d84c4c3a.css",
-    "static/js/main.cd7cd2ac.js"
+    "static/js/main.b2e604bb.js"
   ]
 }
