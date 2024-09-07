@@ -7,41 +7,42 @@ const reviews = [
   {
     id: 1,
     image:'http://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-High-Quality-Image.png',
-    name: 'John Doe',
-    location: 'Sydney, Australia',
-    text: 'I was extremely pleased with the quality of the product. It exceeded my expectations and provided great value for the price.',
+    name: 'Amir Bajrami',
+    location: 'Fushëkosovë',
+    text: 'Kam qenë jashtëzakonisht i kënaqur me shërbimin e menaxhimit të rrjeteve sociale. Puna e bërë ka tejkaluar pritshmëritë e mia dhe ka ofruar një vlerë të shkëlqyer për çmimin e paguar. Profili ynë në rrjetet sociale ka marrë një pamje të re, duke qenë më tërheqës dhe më të angazhuar me ndjekësit..',
   },
   {
     id: 2,
     image:
       'http://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-High-Quality-Image.png',
-    name: 'Jane Smith',
-    location: 'London, UK',
-    text: 'The customer service was excellent. They were responsive and helpful throughout the entire process, making it a smooth experience for me.',
+    name: 'Astrit Gashi',
+    location: 'Prishtinë',
+    text: 'Eksperienca ime me menaxhimin e rrjeteve sociale ka qenë fantastike. Profili ynë ka pësuar ndryshime të mëdha që kanë sjellë përmirësim në mënyrën se si komunikojmë me ndjekësit tanë Postimet kanë qenë të vazhdueshme dhe me përmbajtje shumë tërheqëse, gjë që ka ndikuar në rritjen e numrit të ndjekësve dhe ndërveprimeve. Jam shumë i impresionuar me mënyrën se si është menaxhuar çdo detaj dhe me profesionalizmin gjatë gjithë procesit.',
   },
   {
     id: 3,
     image:
       'http://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-High-Quality-Image.png',
-    name: 'Alex Johnson',
-    location: 'New York, USA',
-    text: 'The attention to detail in their work is impressive. Every aspect of the project was handled with precision and care. I highly recommend their services.',
+    name: 'Besart Gashi',
+    location: 'Pejë',
+    text: 'Jam shumë i impresionuar me profesionalizmin dhe përkushtimin që është treguar gjatë menaxhimit të rrjeteve sociale. Postimet kanë qenë të organizuara në mënyrë perfekte, duke ndjekur një strategji të qartë dhe të përshtatur me qëllimet e kompanisë sonë',
+
   },
   {
     id: 4,
     image:
       'http://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-High-Quality-Image.png',
-    name: 'Emily Davis',
-    location: 'San Francisco, USA',
-    text: 'The team demonstrated a deep understanding of my requirements. They were able to capture the essence of my vision and deliver a product that exceeded my expectations.',
+    name: 'Laura Aliu',
+    location: 'Mitrovicë',
+    text: 'Jam jashtëzakonisht i kënaqur me shërbimin që kam marrë për menaxhimin e rrjeteve tona sociale. Rezultatet kanë qenë të shkëlqyera dhe kemi parë rritje të vazhdueshme në angazhimin e ndjekësve. Përmbajtja ka qenë kreative dhe e qëlluar, duke krijuar një lidhje më të fortë me audiencën tonë Për më tepër, puna ka qenë e organizuar dhe shumë profesionale. Çdo ide e diskutuar është zbatuar në mënyrë efektive dhe e ka përmirësuar prezencën tonë online. Pa dyshim, ky ka qenë një investim i vlefshëm dhe rezultatet flasin vetë.',
   },
   {
     id: 5,
     image:
       'http://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-High-Quality-Image.png',
-    name: 'David Miller',
-    location: 'Berlin, Germany',
-    text: "The product not only met but exceeded my expectations. It's clear that the team is dedicated to delivering high-quality work. I'm a satisfied customer.",
+    name: 'Podujevë',
+    location: 'Podujevë',
+    text: "Pas menaxhimit të rrjeteve sociale nga ekipi juaj, kam parë ndryshime të mëdha në mënyrën se si audienca jonë ndërvepron me përmbajtjen tonë. Shërbimi ka qenë shumë i mirëstrukturuar dhe kreativ, duke sjellë më shumë ndjekës dhe ndërveprime të qëndrueshme në secilën platformë Komunikimi dhe përditësimet e rregullta kanë qenë të vlefshme dhe të përpikta. Pa dyshim, do të vazhdojmë të punojmë së bashku dhe do të rekomandoj këtë shërbim për këdo që dëshiron rezultate konkrete në prezencën e tyre online.",
   },
 ];
 
